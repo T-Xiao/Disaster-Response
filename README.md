@@ -1,5 +1,8 @@
 # Disaster Response Pipeline Project
 
+# Starting date: Dec 1st 2021 -- Using terminal to push the downloaded projects from Udacity to Github. 
+
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
